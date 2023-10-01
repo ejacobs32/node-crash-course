@@ -1,0 +1,5 @@
+username = Enoch
+password = 8vJhfvAJnFvgygju
+
+connection string
+mongodb+srv://Enoch:<password>@nodetuts.6pkskvs.mongodb.net/
